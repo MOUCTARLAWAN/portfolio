@@ -20,6 +20,7 @@ const config = {
     fontFamily: {
       sans: ["var(--font-geist-sans)"],
       caption: ["var(--font-caption)"],
+      mono: ["var(--font-geist-mon)"],
     },
     extend: {
       colors: {
